@@ -1,7 +1,7 @@
 cask "kubebar" do
   # version and sha256 are updated by KubeBar's release workflow.
-  version "1.0"
-  sha256 "632a683c7fc9d37aaf9e5dde737e03416f1217ee7019effece7d348a8521279b"
+  version "1.1"
+  sha256 "f8121b18b219c20b86aea19732de43f67a9ac35c651af84ddab355c167d8534f"
 
   url "https://github.com/svclimb/KubeBar/releases/download/v#{version}/KubeBar-#{version}.zip"
   name "KubeBar"
